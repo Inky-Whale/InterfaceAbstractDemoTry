@@ -7,7 +7,7 @@ using InterfaceAbstractDemoTry.Abstract;
 
 namespace InterfaceAbstractDemoTry.Entities
 {
-    public class Customer:IEntitiy
+    public class Customer:IEntity
     {
         public int Id { get; set; }
         public string FirstName { get; set; }

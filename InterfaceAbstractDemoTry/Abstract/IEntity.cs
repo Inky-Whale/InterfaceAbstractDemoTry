@@ -1,5 +1,5 @@
 ﻿namespace InterfaceAbstractDemoTry.Abstract;
 
-public interface IEntitiy
+public interface IEntity
 {
 }

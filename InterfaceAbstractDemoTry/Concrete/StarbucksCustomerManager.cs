@@ -25,7 +25,7 @@ namespace InterfaceAbstractDemoTry.Concrete
             }
             else
             {
-                throw new Exception("Not a valid person");
+                Console.WriteLine("Vatandaş bulunamadı.");
             }
         }
 
